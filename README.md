@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Neon cyberpunk developer banner" width="100%"/>
+<!-- <img src="assets/profile-banner.svg" alt="Neon cyberpunk developer banner" width="100%"/> -->
 
 <br/>
 
